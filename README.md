@@ -5,8 +5,9 @@ Dexamethasone (DEX) has shown anti-cancer efficacy and anti-estrogenic activity 
 ## Structure of the repository
 
 ### DEX model
-For Windows users: matlab -nodisplay -nosplash -nodesktop -r “run_model ; exit” 
-For Mac users: /Applications/MATLAB_R2022a.app/bin/matlab -nodisplay -nosplash -nodesktop -r “run_model ; exit” (Notice the MATLAB version should be modified to the version you have.) Lines above run the model and plot the graphs with the parameter values loaded. Please make sure MATLAB R2017a or any later version is downloaded.) 
+For Windows users: matlab -nodisplay -nosplash -nodesktop -r “run_model ; exit”<br />
+For Mac users: /Applications/MATLAB_R2022a.app/bin/matlab -nodisplay -nosplash -nodesktop -r “run_model ; exit”<br />
+Lines above run the model and plot the graphs with the parameter values loaded. Notice the MATLAB version should be modified to the version you have. Please make sure MATLAB R2017a or any later version is downloaded.<br />
 
 ```
 ┌──ga_cancer.m
