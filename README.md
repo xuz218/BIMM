@@ -10,7 +10,7 @@ Dexamethasone (DEX) has shown anti-cancer efficacy and anti-estrogenic activity 
 ├──direct.m
 ├──model.m
 ├──fitness.m
-├──result_plot.m
+├──run_model.m
 └──level_doses.m
 ```
 
