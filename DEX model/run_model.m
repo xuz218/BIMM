@@ -69,7 +69,7 @@ extraInputs = {'fontsize',20};
 % xlabel('Time',extraInputs{:});
 % ylabel('Population',extraInputs{:});
 % box on
-path ='./result';
+path ='./';
 % saveas(gcf, fullfile(path, ['ga_out1','.png'] ));
 
 %% figure of protein level of SMAD23 
