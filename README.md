@@ -18,7 +18,7 @@ Dexamethasone (DEX) has shown anti-cancer efficacy and anti-estrogenic activity 
 - `direct.m`: contains the script for running Direct Optimization Algorithm for optimizing parameters.
 - `model.m`: contains the script for ordinary differential equations of tumorigenesis regulatory network model
 - `fitness.m`: contains the script for objective functions of parameter optimizations intumorigenesis regulatory network model
-- `result_plot.m`: contains the script for plotting simulated protein profiles and expression level of signature genes
+- `run_model.m`: contains the script for running model with parameters loaded and plotting simulated protein profiles and expression level of signature genes
 - `level_doses.m`: contains the script for plotting simulated levels of signature genes under one, two, and three doses of DEX treatment respectively
 
 
