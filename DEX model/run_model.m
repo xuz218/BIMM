@@ -5,7 +5,7 @@
 % to the A549 cells
 %&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&%
 clc; clear; close all;
-load('cancer_ga_outputs53.mat', "value", "error");
+load('cancer_ga_outputs53.mat', "value", "error"); %  different parameters can be loaded here 
 % load('gene_percentile.mat');
 
 Inits = value;
